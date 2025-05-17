@@ -1,15 +1,18 @@
 # Jikaku
 
 > [!IMPORTANT]
+> I didn’t create or maintain this deck. It’s a clone of the original repository from https://github.com/nullsp-ce/Jikaku, which is no longer available. I’ve re-published it here so others can still download the Japanese Anki deck.
+
+> [!IMPORTANT]
 > This deck assumes that you know everything in [Kaishi 1.5k](https://github.com/donkuri/Kaishi/tree/main). If you are a beginner, please complete Kaishi first.
 
 Jikaku is a Japanese Anki deck designed to quickly build kanji reading proficiency. Each card introduces a new kanji, totalling 3000 kanji taught when combined with Kaishi. The intent is that learning all the words in this deck will make it much easier to learn other words through reading alone without having to mine them. Here is what the cards look like:
 
-![Image showing the front and back of a card](https://github.com/nullsp-ce/Jikaku/blob/main/JikakuCard.png?raw=true)
+![Image showing the front and back of a card](https://github.com/nullsp-ce/Jikaku/blob/master/JikakuCard.png?raw=true)
 
 The front has a word. The back has the word with the reading as furigana, and the pitch accent, audio and meaning below. Many cards also have example sentences with translations.
 
-![Image showing v4's card definitions](https://github.com/nullsp-ce/Jikaku/blob/main/v4card.png?raw=true)
+![Image showing v4's card definitions](https://github.com/nullsp-ce/Jikaku/blob/master/v4card.png?raw=true)
 
 The default dictionary used is Jitendex. You can make the deck monolingual by replacing `{{Jitendex}}` in the note's back template with `{{Sanseido}}{{Daijirin}}`.
 
